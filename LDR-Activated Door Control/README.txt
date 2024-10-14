@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Smart Door Opener** is an innovative door control system that utilizes a Light Dependent Resistor (LDR) to detect light levels and automatically open or close a servo-operated door based on the surrounding light conditions. This project is ideal for automating access to rooms or spaces based on the presence of light, enhancing convenience and energy efficiency.
+The LDR-Activated Door Control is an innovative door control system that utilizes a Light Dependent Resistor (LDR) to detect light levels and automatically open or close a servo-operated door based on the surrounding light conditions. This project is ideal for automating access to rooms or spaces based on the presence of light, enhancing convenience and energy efficiency.
 
 ## Features
 
